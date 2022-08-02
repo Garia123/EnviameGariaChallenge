@@ -1,0 +1,10 @@
+Instrucciones:
+Para ejecutar los proyectos angular.
+->Abrir terminal en la ruta del proyecto
+->npm i
+->npm start
+
+Detalle importante:
+Al momento de subir una imagen como lo estamos haciendo de forma
+local y no desde un servidor la imagen debe colocarse en la ruta de assets/images,
+deje una imagen a modo de prueba que pueden utilizar.
